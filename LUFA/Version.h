@@ -1,13 +1,13 @@
 /*
              LUFA Library
-     Copyright (C) Dean Camera, 2016.
+     Copyright (C) Dean Camera, 2017.
 
   dean [at] fourwalledcubicle [dot] com
            www.lufa-lib.org
 */
 
 /*
-  Copyright 2016  Dean Camera (dean [at] fourwalledcubicle [dot] com)
+  Copyright 2017  Dean Camera (dean [at] fourwalledcubicle [dot] com)
 
   Permission to use, copy, modify, distribute, and sell this
   software and its documentation for any purpose is hereby granted
@@ -55,13 +55,13 @@
 			//@}
 
 			/** Indicates the version number of the library, as an integer. \note This value is only updates in non-development releases. */
-			#define LUFA_VERSION_INTEGER              0x160328
+			#define LUFA_VERSION_INTEGER              0x170418
 
 			/** Indicates the version number of the library, as a string. \note This value is only updates in non-development releases. */
-			#define LUFA_VERSION_STRING               "160328"
+			#define LUFA_VERSION_STRING               "170418"
 
 			/** Indicates the release type of the library. */
-			#define LUFA_VERSION_RELEASE_TYPE         LUFA_VERSION_RELEASE_TYPE_DEVELOPMENT
+			#define LUFA_VERSION_RELEASE_TYPE         LUFA_VERSION_RELEASE_TYPE_FULL
 
 #endif
 
